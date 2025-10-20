@@ -1,0 +1,4 @@
+# Основные зависимости проекта (без cog-whisper-diarization)
+torch
+torchaudio
+pyannote.audio
